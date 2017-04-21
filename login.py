@@ -28,7 +28,7 @@ class TestLogin(WebdriverTestCase):
         self.find_element(login_selectors.login_submit).click()
         self.assert_element_is_displayed(login_selectors.password_error_div)
 
-    def test_login_with_valid(self):
+    def test_login_with_valid_credential(self):
         self.get_login_page()
         email_id = self.find_element(login_selectors.user_email)
         email_id.clear()
@@ -37,3 +37,7 @@ class TestLogin(WebdriverTestCase):
         passwrd.clear()
         passwrd.send_keys("1234567a")
         self.find_element(login_selectors.login_submit).click()
+        self.assert_element_is_displayed(login_selectors.afater_login_dashboard_div)
+        self.assert_that_nextpage_is_displayed('/dashboard')
+
+
