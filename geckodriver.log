@@ -1,0 +1,1195 @@
+1492595316624	geckodriver	INFO	Listening on 127.0.0.1:56406
+1492595318696	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.LaChEW7aeGA0
+1492595318696	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492595318712	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56413
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492595320413	Marionette	INFO	Listening on port 56413
+1492595321062	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492595323806	Marionette	INFO	New connections will no longer be accepted
+[Child 5464] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492595416401	geckodriver	INFO	Listening on 127.0.0.1:56439
+1492595418463	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.g5KFRaAWusyt
+1492595418479	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492595418479	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56445
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492595419428	Marionette	INFO	Listening on port 56445
+1492595419779	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492595421461	Marionette	INFO	New connections will no longer be accepted
+[Child 10144] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492595474757	geckodriver	INFO	Listening on 127.0.0.1:56467
+1492595476804	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.B18lxlAcHtGL
+1492595476820	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492595476836	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56473
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492595477768	Marionette	INFO	Listening on port 56473
+1492595478104	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492595479490	Marionette	INFO	New connections will no longer be accepted
+[Child 10152] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492595594535	geckodriver	INFO	Listening on 127.0.0.1:56493
+1492595596582	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.HWzGq7OwoNiz
+1492595596598	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492595596598	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56499
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492595597679	Marionette	INFO	Listening on port 56499
+1492595598156	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492595599342	Marionette	INFO	New connections will no longer be accepted
+[Child 5692] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492595643108	geckodriver	INFO	Listening on 127.0.0.1:56518
+1492595645171	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.DC1XACOgkTrM
+1492595645171	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492595645186	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56524
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492595646124	Marionette	INFO	Listening on port 56524
+1492595646454	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492595665531	Marionette	INFO	New connections will no longer be accepted
+[Child 11116] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492595999426	geckodriver	INFO	Listening on 127.0.0.1:56651
+1492596001535	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.wvNWOMxKnbtQ
+1492596001551	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492596001551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56659
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492596002423	Marionette	INFO	Listening on port 56659
+1492596002756	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492596004274	Marionette	INFO	New connections will no longer be accepted
+[Child 5292] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492596316452	geckodriver	INFO	Listening on 127.0.0.1:56685
+1492596318514	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.SgZDuT4dgOUE
+1492596318530	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492596318530	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56691
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492596319426	Marionette	INFO	Listening on port 56691
+1492596319767	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492596321066	Marionette	INFO	New connections will no longer be accepted
+[Child 2268] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492596381393	geckodriver	INFO	Listening on 127.0.0.1:56711
+1492596383456	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.pycZmITmcBZG
+1492596383456	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492596383471	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56717
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492596384350	Marionette	INFO	Listening on port 56717
+1492596384670	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492596386242	Marionette	INFO	New connections will no longer be accepted
+[Child 1424] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492596440358	geckodriver	INFO	Listening on 127.0.0.1:56736
+1492596442405	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.MDhq11y6mC4J
+1492596442405	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492596442405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56743
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492596443301	Marionette	INFO	Listening on port 56743
+1492596443620	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492596445166	Marionette	INFO	New connections will no longer be accepted
+[Child 4304] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492603850822	geckodriver	INFO	Listening on 127.0.0.1:56782
+1492603852900	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.stuRPpl4NchJ
+1492603852916	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492603852916	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56788
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492603853837	Marionette	INFO	Listening on port 56788
+1492603854160	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492603855648	Marionette	INFO	New connections will no longer be accepted
+[Child 12148] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492603874008	geckodriver	INFO	Listening on 127.0.0.1:56901
+1492603876133	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.gJafRk86EAME
+1492603876133	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492603876149	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56950
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492603877137	Marionette	INFO	Listening on port 56950
+1492603877518	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492603879207	Marionette	INFO	New connections will no longer be accepted
+[Child 1736] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492603902769	geckodriver	INFO	Listening on 127.0.0.1:57031
+1492603904816	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.C3GxQt9K9SeR
+1492603904832	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492603904832	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57037
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492603905804	Marionette	INFO	Listening on port 57037
+1492603906126	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492603907507	Marionette	INFO	New connections will no longer be accepted
+[Child 9792] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492604523507	geckodriver	INFO	Listening on 127.0.0.1:57249
+1492604525572	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.IuNSulxz2fwA
+1492604525578	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492604525585	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57262
+1492604536569	geckodriver::marionette	ERROR	Failed to kill browser process
+1492604579986	geckodriver	INFO	Listening on 127.0.0.1:57366
+1492604582066	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.gzfyv1YuSeBy
+1492604582071	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492604582082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57372
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492604583210	Marionette	INFO	Listening on port 57372
+1492604583691	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492604593338	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 7900] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1492673092544	geckodriver	INFO	Listening on 127.0.0.1:49894
+1492673094591	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.Uegbik0sFRVc
+1492673094607	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492673094622	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49900
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492673096122	Marionette	INFO	Listening on port 49900
+1492673096412	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492673107329	Marionette	INFO	New connections will no longer be accepted
+[Child 11240] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492679753145	geckodriver	INFO	Listening on 127.0.0.1:50489
+1492679755176	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.WKiOk5j5yHEY
+1492679755192	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492679755192	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50495
+1492679768671	geckodriver::marionette	ERROR	Failed to kill browser process
+1492679794975	geckodriver	INFO	Listening on 127.0.0.1:50573
+1492679797022	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.ZSZmv7wSlj1h
+1492679797038	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492679797038	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50579
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492679797873	Marionette	INFO	Listening on port 50579
+1492679798181	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+[Parent 4932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492679866268	Marionette	INFO	New connections will no longer be accepted
+[Child 10716] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492679882697	geckodriver	INFO	Listening on 127.0.0.1:50698
+1492679884744	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.Wi7YuRUk4Ume
+1492679884759	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492679884759	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50704
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492679885590	Marionette	INFO	Listening on port 50704
+1492679885884	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492679898234	Marionette	INFO	New connections will no longer be accepted
+[Child 7848] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492680256473	geckodriver	INFO	Listening on 127.0.0.1:50821
+1492680258503	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.G1JHuL5Br3wX
+1492680258507	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492680258513	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50827
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492680259380	Marionette	INFO	Listening on port 50827
+1492680259750	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492680269727	Marionette	INFO	New connections will no longer be accepted
+[Child 3400] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492680299864	geckodriver	INFO	Listening on 127.0.0.1:50905
+1492680301916	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.fzPQHRJ5OpWo
+1492680301921	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492680301927	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50911
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492680302765	Marionette	INFO	Listening on port 50911
+1492680303065	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492680314563	Marionette	INFO	New connections will no longer be accepted
+[Child 5260] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492680453643	geckodriver	INFO	Listening on 127.0.0.1:50998
+1492680455690	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.W3C13yUmUn3i
+1492680455690	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492680455690	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51004
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492680456506	Marionette	INFO	Listening on port 51004
+1492680456804	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492680469525	Marionette	INFO	New connections will no longer be accepted
+[Child 8564] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492680706290	geckodriver	INFO	Listening on 127.0.0.1:51100
+1492680708343	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.ThgMhrF5a0xF
+1492680708349	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492680708354	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51106
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492680709274	Marionette	INFO	Listening on port 51106
+1492680709588	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492680774710	Marionette	INFO	New connections will no longer be accepted
+[Child 2152] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492680804424	geckodriver	INFO	Listening on 127.0.0.1:51210
+1492680806455	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.ALo9YRWR56CZ
+1492680806471	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492680806471	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51216
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492680807287	Marionette	INFO	Listening on port 51216
+1492680807585	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492680821534	Marionette	INFO	New connections will no longer be accepted
+[Child 5060] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492688346837	geckodriver	INFO	Listening on 127.0.0.1:52123
+1492688348900	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.x8V9euLnuEP4
+1492688348900	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492688348915	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52129
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492688349758	Marionette	INFO	Listening on port 52129
+1492688350067	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492688365560	Marionette	INFO	New connections will no longer be accepted
+[Child 11144] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 11144] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492688462693	geckodriver	INFO	Listening on 127.0.0.1:52226
+1492688464771	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.QpOEGjbr9hen
+1492688464771	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492688464771	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52232
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492688465712	Marionette	INFO	Listening on port 52232
+1492688466052	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492688480052	Marionette	INFO	New connections will no longer be accepted
+[Child 6372] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492754422168	geckodriver	INFO	Listening on 127.0.0.1:53284
+1492754424199	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.L8pFf1hUMezU
+1492754424199	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492754424215	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53290
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492754425169	Marionette	INFO	Listening on port 53290
+1492754425483	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492754491183	Marionette	INFO	New connections will no longer be accepted
+[Child 2228] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492755198516	geckodriver	INFO	Listening on 127.0.0.1:53449
+1492755200551	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.MwpJPscMANew
+1492755200551	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492755200551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53455
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492755201387	Marionette	INFO	Listening on port 53455
+1492755201691	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492755218607	Marionette	INFO	New connections will no longer be accepted
+[Child 4800] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492755406419	geckodriver	INFO	Listening on 127.0.0.1:53633
+1492755408446	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.uqHi3OH2cHBL
+1492755408451	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492755408457	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53639
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492755409291	Marionette	INFO	Listening on port 53639
+1492755409602	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492755480589	Marionette	INFO	New connections will no longer be accepted
+[Child 5776] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492756023405	geckodriver	INFO	Listening on 127.0.0.1:53815
+1492756025421	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.dVnAJcuo7qnN
+1492756025437	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492756025437	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53821
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492756026274	Marionette	INFO	Listening on port 53821
+1492756026566	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492756054602	Marionette	INFO	New connections will no longer be accepted
+[Child 112] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492756171190	geckodriver	INFO	Listening on 127.0.0.1:54009
+1492756173237	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.bQjnOMAB29gw
+1492756173253	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492756173253	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54015
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492756174072	Marionette	INFO	Listening on port 54015
+1492756174412	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492756209133	Marionette	INFO	New connections will no longer be accepted
+[Child 992] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492756842358	geckodriver	INFO	Listening on 127.0.0.1:54274
+1492756844405	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.6ydjpvo6ly7E
+1492756844421	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492756844421	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54280
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492756845259	Marionette	INFO	Listening on port 54280
+1492756845558	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492756885004	Marionette	INFO	New connections will no longer be accepted
+[Child 3688] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492756965952	geckodriver	INFO	Listening on 127.0.0.1:54522
+1492756968010	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.Xu3M16GqX2gC
+1492756968010	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492756968010	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54528
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492756968862	Marionette	INFO	Listening on port 54528
+1492756969164	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492756981913	Marionette	INFO	New connections will no longer be accepted
+[Child 6300] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492757084763	geckodriver	INFO	Listening on 127.0.0.1:54606
+1492757086810	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.WmA117Ep6Y3p
+1492757086810	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492757086826	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54612
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492757087640	Marionette	INFO	Listening on port 54612
+1492757087931	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492757100288	Marionette	INFO	New connections will no longer be accepted
+[Child 7016] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492757131149	geckodriver	INFO	Listening on 127.0.0.1:54690
+1492757133169	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.YcByfe25xrUg
+1492757133169	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492757133184	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54696
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492757133991	Marionette	INFO	Listening on port 54696
+1492757134288	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492757142968	Marionette	INFO	New connections will no longer be accepted
+[Child 7076] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492757438932	geckodriver	INFO	Listening on 127.0.0.1:54770
+1492757440948	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.1K7X0rlqAXvw
+1492757440964	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492757440964	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54776
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492757441806	Marionette	INFO	Listening on port 54776
+1492757442104	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492757450882	Marionette	INFO	New connections will no longer be accepted
+[Child 4304] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492757469885	geckodriver	INFO	Listening on 127.0.0.1:54848
+1492757471943	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.M2cegIHRrySX
+1492757471959	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492757471959	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54854
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492757472767	Marionette	INFO	Listening on port 54854
+1492757473055	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492757482736	Marionette	INFO	New connections will no longer be accepted
+[Child 2744] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[Child 2744] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492757682683	geckodriver	INFO	Listening on 127.0.0.1:54932
+1492757684714	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.unqgHLrIDXaQ
+1492757684730	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492757684730	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54938
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492757685555	Marionette	INFO	Listening on port 54938
+1492757685847	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492757709529	Marionette	INFO	New connections will no longer be accepted
+[Child 2152] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492757722111	geckodriver	INFO	Listening on 127.0.0.1:55045
+1492757724171	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.6h9xdzMcUU0v
+1492757724176	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492757724181	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55051
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492757724993	Marionette	INFO	Listening on port 55051
+1492757725329	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492757739720	Marionette	INFO	New connections will no longer be accepted
+[Child 3044] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492757750693	geckodriver	INFO	Listening on 127.0.0.1:55135
+1492757752747	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.ono5OgDSzhDL
+1492757752751	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492757752756	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55141
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492757753605	Marionette	INFO	Listening on port 55141
+1492757753934	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492757767555	Marionette	INFO	New connections will no longer be accepted
+[Child 6268] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492758443041	geckodriver	INFO	Listening on 127.0.0.1:55233
+1492758445057	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.YtSDSOnf09IG
+1492758445057	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492758445073	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55240
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492758445899	Marionette	INFO	Listening on port 55240
+1492758446211	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492758455003	Marionette	INFO	New connections will no longer be accepted
+[Child 9940] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492758467994	geckodriver	INFO	Listening on 127.0.0.1:55314
+1492758470025	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.Z3J8wb0y9rJI
+1492758470025	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492758470041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55320
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492758470875	Marionette	INFO	Listening on port 55320
+1492758471176	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492758481000	Marionette	INFO	New connections will no longer be accepted
+[Child 10092] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492758612043	geckodriver	INFO	Listening on 127.0.0.1:55400
+1492758614059	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.en1WVl0uu8jf
+1492758614059	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492758614074	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55406
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492758614907	Marionette	INFO	Listening on port 55406
+1492758615207	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492758625526	Marionette	INFO	New connections will no longer be accepted
+[Child 9504] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[Child 9504] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492758841868	geckodriver	INFO	Listening on 127.0.0.1:55487
+1492758843900	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.2hAqhbHGWo3E
+1492758843900	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492758843900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55493
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492758844749	Marionette	INFO	Listening on port 55493
+1492758845046	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492758853804	Marionette	INFO	New connections will no longer be accepted
+[Child 10224] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[Child 10224] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492758940572	geckodriver	INFO	Listening on 127.0.0.1:55589
+1492758942614	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.f3enJ6wK2FhJ
+1492758942618	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492758942627	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55595
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492758943462	Marionette	INFO	Listening on port 55595
+1492758943771	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492758952700	Marionette	INFO	New connections will no longer be accepted
+[Child 9600] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400038,name=PCompositorBridge::Msg_PTextureConstructor) Channel error: cannot send/recv
+
+IPDL protocol error: constructor for actor failed
+[Child 9600] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 9600] ###!!! ABORT: IPDL error [PCompositorBridgeChild]: "constructor for actor failed". abort()ing as a result.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 292
+1492759265829	geckodriver	INFO	Listening on 127.0.0.1:55670
+1492759267875	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.Lz6MbWKDi3Eo
+1492759267890	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492759267890	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55676
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492759268750	Marionette	INFO	Listening on port 55676
+1492759281472	geckodriver	INFO	Listening on 127.0.0.1:55680
+1492759283503	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.we8UhmUyneek
+1492759283519	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492759283519	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55686
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492759284346	Marionette	INFO	Listening on port 55686
+1492759284636	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492759294667	Marionette	INFO	New connections will no longer be accepted
+[Child 5572] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492759442199	geckodriver	INFO	Listening on 127.0.0.1:55773
+1492759444224	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.nx3MrmMmhlWP
+1492759444224	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492759444240	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55779
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492759445043	Marionette	INFO	Listening on port 55779
+1492759445335	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492759470694	Marionette	INFO	New connections will no longer be accepted
+[Child 2708] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492759819949	geckodriver	INFO	Listening on 127.0.0.1:55903
+1492759821965	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.ti5bFj99JVyw
+1492759821965	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492759821981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55909
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492759822806	Marionette	INFO	Listening on port 55909
+1492759823107	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492759839983	Marionette	INFO	New connections will no longer be accepted
+[Child 6924] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492760296195	geckodriver	INFO	Listening on 127.0.0.1:56042
+1492760298211	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.U19EgIGnG3lI
+1492760298211	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492760298226	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56048
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492760299045	Marionette	INFO	Listening on port 56048
+1492760299340	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492760310739	Marionette	INFO	New connections will no longer be accepted
+[Child 6224] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492760866098	geckodriver	INFO	Listening on 127.0.0.1:56206
+1492760868140	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.nrGeIhP3AgZZ
+1492760868156	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492760868156	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56212
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492760868998	Marionette	INFO	Listening on port 56212
+1492760869290	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492760877761	Marionette	INFO	New connections will no longer be accepted
+[Child 5852] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492760926180	geckodriver	INFO	Listening on 127.0.0.1:56275
+1492760928212	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.JNHqVPVowhUo
+1492760928212	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492760928227	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56281
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492760929030	Marionette	INFO	Listening on port 56281
+1492760929320	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492760938780	Marionette	INFO	New connections will no longer be accepted
+[Child 7504] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492761024403	geckodriver	INFO	Listening on 127.0.0.1:56348
+1492761026467	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.gGXKS5MUmxcO
+1492761026483	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492761026483	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56354
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492761027316	Marionette	INFO	Listening on port 56354
+1492761027610	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492761035975	Marionette	INFO	New connections will no longer be accepted
+[Child 5152] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492761173771	geckodriver	INFO	Listening on 127.0.0.1:56417
+1492761175803	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.XSpxxKZNJWBy
+1492761175807	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492761175813	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56423
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492761176712	Marionette	INFO	Listening on port 56423
+1492761177011	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492761185545	Marionette	INFO	New connections will no longer be accepted
+[Child 8784] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492761537994	geckodriver	INFO	Listening on 127.0.0.1:56487
+1492761540039	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.Gs8h7kqlOy3c
+1492761540055	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492761540055	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56493
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492761540923	Marionette	INFO	Listening on port 56493
+1492761541206	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492761558684	Marionette	INFO	New connections will no longer be accepted
+[Child 7888] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492761731722	geckodriver	INFO	Listening on 127.0.0.1:56566
+1492761733769	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.Fzaik7awxNCs
+1492761733769	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492761733769	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56572
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492761734593	Marionette	INFO	Listening on port 56572
+1492761734899	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492761743767	Marionette	INFO	New connections will no longer be accepted
+[Child 2724] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492761783760	geckodriver	INFO	Listening on 127.0.0.1:56634
+1492761785790	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.XU5jvYDkCzAO
+1492761785806	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492761785806	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56640
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492761786634	Marionette	INFO	Listening on port 56640
+1492761786934	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492761809363	Marionette	INFO	New connections will no longer be accepted
+[Child 3828] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492761983790	geckodriver	INFO	Listening on 127.0.0.1:56720
+1492761985842	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.7O41CBc4SF3A
+1492761985847	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492761985852	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56726
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492761986675	Marionette	INFO	Listening on port 56726
+1492761986974	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492761995820	Marionette	INFO	New connections will no longer be accepted
+[Child 10788] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492762165724	geckodriver	INFO	Listening on 127.0.0.1:56789
+1492762167771	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.2aiBZmpsTlyO
+1492762167771	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492762167771	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56795
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492762168596	Marionette	INFO	Listening on port 56795
+1492762168899	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492762177085	Marionette	INFO	New connections will no longer be accepted
+[Child 2468] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492762749024	geckodriver	INFO	Listening on 127.0.0.1:56871
+1492762751093	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.jRqRhmf9tjx7
+1492762751098	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492762751103	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56877
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492762751978	Marionette	INFO	Listening on port 56877
+1492762752294	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492762772939	Marionette	INFO	New connections will no longer be accepted
+[Child 10016] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492763123845	geckodriver	INFO	Listening on 127.0.0.1:56958
+1492763125904	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.Jp987hieU3ks
+1492763125904	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492763125904	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56964
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492763126833	Marionette	INFO	Listening on port 56964
+1492763127136	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492763136047	Marionette	INFO	New connections will no longer be accepted
+[Child 4804] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492763192816	geckodriver	INFO	Listening on 127.0.0.1:57025
+1492763194895	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.1f0AcOMWc0TX
+1492763194895	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492763194910	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57031
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492763195761	Marionette	INFO	Listening on port 57031
+1492763196060	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492763204867	Marionette	INFO	New connections will no longer be accepted
+[Child 2468] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[Child 2468] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492764405964	geckodriver	INFO	Listening on 127.0.0.1:57119
+1492764408011	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.AAdGkDujBFqr
+1492764408011	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492764408027	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57125
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492764408910	Marionette	INFO	Listening on port 57125
+1492764409255	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+[Parent 8600] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1492764510187	geckodriver	INFO	Listening on 127.0.0.1:57188
+1492764512235	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.FkjSEqiYYPYD
+1492764512235	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492764512250	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57194
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492764513105	Marionette	INFO	Listening on port 57194
+1492764513393	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492764577314	Marionette	INFO	New connections will no longer be accepted
+[Child 8980] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492764581825	geckodriver	INFO	Listening on 127.0.0.1:57275
+1492764583910	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.yuhZAFzwN9k5
+1492764583910	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492764583910	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57281
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492764584753	Marionette	INFO	Listening on port 57281
+1492764585050	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492764598682	Marionette	INFO	New connections will no longer be accepted
+[Child 4304] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 4304] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1492766060860	geckodriver	INFO	Listening on 127.0.0.1:57448
+1492766062908	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.1tYyP5FY9hpW
+1492766062908	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492766062923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57454
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492766063781	Marionette	INFO	Listening on port 57454
+1492766064140	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492766076883	Marionette	INFO	New connections will no longer be accepted
+[Child 3828] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492766413999	geckodriver	INFO	Listening on 127.0.0.1:57541
+1492766416062	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.rgSoHR6gISh9
+1492766416062	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492766416062	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57547
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492766416965	Marionette	INFO	Listening on port 57547
+1492766417341	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492766429249	Marionette	INFO	New connections will no longer be accepted
+[Child 7976] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492766522136	geckodriver	INFO	Listening on 127.0.0.1:57620
+1492766524189	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.P36IHkhm4put
+1492766524205	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492766524205	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57626
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492766525042	Marionette	INFO	Listening on port 57626
+1492766525344	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492766542168	Marionette	INFO	New connections will no longer be accepted
+[Child 6776] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492766649368	geckodriver	INFO	Listening on 127.0.0.1:57718
+1492766651431	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.CIVnlOfMomIH
+1492766651431	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492766651431	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57724
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492766652364	Marionette	INFO	Listening on port 57724
+1492766652671	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492766677714	Marionette	INFO	New connections will no longer be accepted
+[Child 1096] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492768809213	geckodriver	INFO	Listening on 127.0.0.1:57945
+1492768811276	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.aYnAFIzdPDGb
+1492768811276	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492768811291	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57951
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492768812145	Marionette	INFO	Listening on port 57951
+1492768812451	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492768825616	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 4984] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1492768861807	geckodriver	INFO	Listening on 127.0.0.1:58041
+1492768863854	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.SdrvsivHx0CT
+1492768863854	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492768863870	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58047
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492768864718	Marionette	INFO	Listening on port 58047
+1492768865109	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492768881506	Marionette	INFO	New connections will no longer be accepted
+[Child 1104] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 1104] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1492769072456	geckodriver	INFO	Listening on 127.0.0.1:58187
+1492769074503	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.0xduyRMISr4i
+1492769074519	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492769074519	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58193
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492769075434	Marionette	INFO	Listening on port 58193
+1492769075772	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492769152578	Marionette	INFO	New connections will no longer be accepted
+[Child 5332] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492769223733	geckodriver	INFO	Listening on 127.0.0.1:58504
+1492769225805	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.nlCKgt34IJP8
+1492769225805	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492769225821	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58510
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492769226697	Marionette	INFO	Listening on port 58510
+1492769227144	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript error: https://cdn.heapanalytics.com/js/heap-6422099.js, line 1: TypeError: Mt.location is null
+1492769323381	geckodriver	INFO	Listening on 127.0.0.1:58614
+1492769325480	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.qV1djDk1gLqN
+1492769325480	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492769325495	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58620
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492769326336	Marionette	INFO	Listening on port 58620
+1492769326722	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492769348584	Marionette	INFO	New connections will no longer be accepted
+[Child 7296] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 7296] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1492769376752	geckodriver	INFO	Listening on 127.0.0.1:58723
+1492769378799	mozprofile::profile	INFO	Using profile path C:\Users\Arbisoft\AppData\Local\Temp\rust_mozprofile.Uo6amAgfnNT7
+1492769378799	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1492769378799	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58729
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1492769379651	Marionette	INFO	Listening on port 58729
+1492769379953	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: resource://gre/components/nsHandlerService.js, line 392: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIRDFRemoteDataSource.Flush]
+JavaScript error: resource://gre/components/nsHandlerService.js, line 392: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIRDFRemoteDataSource.Flush]
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+JavaScript warning: https://secure.comodo.net/trustlogo/javascript/trustlogo.js, line 28: unreachable code after return statement
+1492769442909	Marionette	INFO	New connections will no longer be accepted
+[Child 1092] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
