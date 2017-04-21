@@ -10,7 +10,7 @@ class TestLogin(WebdriverTestCase):
         self.get_login_page()
         email_id = self.find_element(login_selectors.user_email)
         email_id.clear()
-        email_id.send_keys("testuser+12ss@test.com")
+        email_id.send_keys("testuser+12ss@payperks.com")
         passwrd = self.find_element((login_selectors.user_password))
         passwrd.clear()
         passwrd.send_keys("1234567a")
@@ -21,7 +21,7 @@ class TestLogin(WebdriverTestCase):
         self.get_login_page()
         email_id = self.find_element(login_selectors.user_email)
         email_id.clear()
-        email_id.send_keys("testuser+12@test.com")
+        email_id.send_keys("testuser+12@payperks.com")
         passwrd = self.find_element((login_selectors.user_password))
         passwrd.clear()
         passwrd.send_keys("1234567")
@@ -32,12 +32,13 @@ class TestLogin(WebdriverTestCase):
         self.get_login_page()
         email_id = self.find_element(login_selectors.user_email)
         email_id.clear()
-        email_id.send_keys("testuser+12@test.com")
+        email_id.send_keys("testuser+12@payperks.com")
         passwrd = self.find_element((login_selectors.user_password))
         passwrd.clear()
         passwrd.send_keys("1234567a")
         self.find_element(login_selectors.login_submit).click()
         self.assert_element_is_displayed(login_selectors.afater_login_dashboard_div)
         self.assert_that_nextpage_is_displayed('/dashboard')
+
 
 
