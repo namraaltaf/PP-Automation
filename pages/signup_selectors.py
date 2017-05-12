@@ -15,5 +15,7 @@ terms_url = ".submit-help.ts-s.t-alignL.mb-2>a[href='/legal/terms']"
 privacy_url = ".submit-help.ts-s.t-alignL.mb-2>a[href='/legal/privacy']"
 legal_text_block = ".submit-help.ts-s.t-alignL.mb-2"
 term_of_services_link = ".//*[@id='signup-home']/div[2]/p/a[1]"
+privacy_policy_page = ".border-am-grey3.bg-white.rb-2.pa-4"
+terms_of_use_page = ".border-am-grey3.bg-white.rb-2.pa-4"
 
 

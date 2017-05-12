@@ -133,24 +133,26 @@ class TestLogin(WebdriverTestCase):
     def test_terms_of_services_link(self):
         self.get_home_page()
         currentwindow = self.browser.window_handles
+        self.assert_element_is_displayed(signup_selectors.legal_text_block)
         self.find_element(signup_selectors.terms_url).click()
         # for handle in self.browser.window_handles:
         #     self.browser.switch_to_window(handle)
         newwindow = self.browser.window_handles
         windownew = list(set(newwindow) - set(currentwindow))[0]
         self.browser.switch_to_window(windownew)
-        self.assert_element_is_displayed(signup_selectors.legal_text_block)
+        self.assert_element_is_displayed(signup_selectors.terms_of_use_page)
         self.assert_that_nextpage_is_displayed('/legal/terms')
 
 
     def test_terms_of_privacy_link(self):
         self.get_home_page()
         currentwindow = self.browser.window_handles
+        self.assert_element_is_displayed(signup_selectors.legal_text_block)
         self.find_element(signup_selectors.privacy_url).click()
         newwindow = self.browser.window_handles
         windownew = list(set(newwindow) - set(currentwindow))[0]
         self.browser.switch_to_window(windownew)
-        self.assert_element_is_displayed(signup_selectors.legal_text_block)
+        self.assert_element_is_displayed(signup_selectors.privacy_policy_page)
         self.assert_that_nextpage_is_displayed('/legal/privacy')
 
 
