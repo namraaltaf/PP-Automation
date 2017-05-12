@@ -13,6 +13,7 @@ tooltip_password_div = "#tooltip-id_password .mb-0"
 signup_scratcher_form = ".pt-6.p-rel"
 terms_url = ".submit-help.ts-s.t-alignL.mb-2>a[href='/legal/terms']"
 privacy_url = ".submit-help.ts-s.t-alignL.mb-2>a[href='/legal/privacy']"
-
 legal_text_block = ".submit-help.ts-s.t-alignL.mb-2"
+term_of_services_link = ".//*[@id='signup-home']/div[2]/p/a[1]"
+
 

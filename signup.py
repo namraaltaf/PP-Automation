@@ -1,6 +1,8 @@
 from pages import signup_selectors
 from test_parent import WebdriverTestCase
 from time import sleep
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.action_chains import ActionChains
 import setting
 from selenium.webdriver.support.ui import WebDriverWait
 
@@ -125,6 +127,31 @@ class TestLogin(WebdriverTestCase):
         self.find_element(signup_selectors.create_account_btn).click()
         self.assert_element_is_displayed(signup_selectors.signup_scratcher_form)
         self.assert_that_nextpage_is_displayed('/signup/scratcher')
+
+
+
+    def test_terms_of_services_link(self):
+        self.get_home_page()
+        currentwindow = self.browser.window_handles
+        self.find_element(signup_selectors.terms_url).click()
+        # for handle in self.browser.window_handles:
+        #     self.browser.switch_to_window(handle)
+        newwindow = self.browser.window_handles
+        windownew = list(set(newwindow) - set(currentwindow))[0]
+        self.browser.switch_to_window(windownew)
+        self.assert_element_is_displayed(signup_selectors.legal_text_block)
+        self.assert_that_nextpage_is_displayed('/legal/terms')
+
+
+    def test_terms_of_privacy_link(self):
+        self.get_home_page()
+        currentwindow = self.browser.window_handles
+        self.find_element(signup_selectors.privacy_url).click()
+        newwindow = self.browser.window_handles
+        windownew = list(set(newwindow) - set(currentwindow))[0]
+        self.browser.switch_to_window(windownew)
+        self.assert_element_is_displayed(signup_selectors.legal_text_block)
+        self.assert_that_nextpage_is_displayed('/legal/privacy')
 
 
 

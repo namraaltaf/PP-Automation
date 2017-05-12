@@ -69,6 +69,9 @@ class WebdriverTestCase(unittest.TestCase):
     def assert_equal_text(self, selector, textt):
         return self.assertEqual(self.browser.find_element_by_css_selector(selector).text, textt)
 
+    def assert_equal_text_using_xpath(self, selector, textt):
+        return self.assertEqual(self.browser.find_element_by_xpath(selector).text, textt)
+
 
 
 

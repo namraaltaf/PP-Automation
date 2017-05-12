@@ -37,8 +37,9 @@ class TestLogin(WebdriverTestCase):
         passwrd.clear()
         passwrd.send_keys("1234567a")
         self.find_element(login_selectors.login_submit).click()
-        self.assert_element_is_displayed(login_selectors.afater_login_dashboard_div)
+        self.assert_element_is_displayed(login_selectors.after_login_dashboard_div)
         self.assert_that_nextpage_is_displayed('/dashboard')
+
 
 
 
