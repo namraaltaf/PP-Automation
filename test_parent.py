@@ -5,6 +5,7 @@ import unittest
 import setting
 from selenium import webdriver
 from selenium.webdriver.support import ui
+from pages import login_selectors
 
 
 
@@ -65,7 +66,6 @@ class WebdriverTestCase(unittest.TestCase):
         browser_base_url = setting.BASE_URL + page_link
         self.assertEqual(browser_current_url, browser_base_url)
 
-
     def assert_equal_text(self, selector, textt):
         return self.assertEqual(self.browser.find_element_by_css_selector(selector).text, textt)
 
@@ -73,6 +73,15 @@ class WebdriverTestCase(unittest.TestCase):
         return self.assertEqual(self.browser.find_element_by_xpath(selector).text, textt)
 
 
+    def login(self,username,password):
+        self.get('/login')
+        email_id = self.find_element(login_selectors.user_email)
+        email_id.clear()
+        email_id.send_keys(username)
+        pasword = self.find_element(login_selectors.user_password)
+        pasword.clear()
+        pasword.send_keys(password)
+        self.find_element(login_selectors.login_submit).click()
 
 
 
