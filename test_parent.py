@@ -21,7 +21,7 @@ class WebdriverTestCase(unittest.TestCase):
         cls.browser.quit()
 
     def get(self, url=""):
-        return self.browser.get(setting.BASE_URL + url)
+        self.browser.get('{base_url}{page_url}'.format(base_url=setting.BASE_URL, page_url=url))
 
     def find_element(self, element_selector):
         if element_selector.startswith("xpath"):
@@ -45,33 +45,29 @@ class WebdriverTestCase(unittest.TestCase):
         finally:
             self.browser.implicitly_wait(setting.DEFAULT_TIMEOUT)
 
-
     def get_login_page(self):
         self.get('/login')
 
-    def assert_element_is_displayed(self, element_css):
+    def assert_element_is_displayed_using_css(self, element_css):
         ui.WebDriverWait(self.browser, setting.DEFAULT_TIMEOUT, 1,
                          (StaleElementReferenceException, NoSuchElementException)). \
             until(lambda driver: driver.find_element_by_css_selector(element_css).is_displayed())
 
-    def element_is_displayed(self, element_xpath):
+    def element_is_displayed_using_xpath(self, element_xpath):
         ui.WebDriverWait(self.browser, setting.DEFAULT_TIMEOUT, 1,
                          (StaleElementReferenceException, NoSuchElementException)). \
             until(lambda driver: self.browser.find_element_by_xpath(element_xpath).is_displayed())
-
-
 
     def assert_that_nextpage_is_displayed(self, page_link):
         browser_current_url = self.browser.current_url
         browser_base_url = setting.BASE_URL + page_link
         self.assertEqual(browser_current_url, browser_base_url)
 
-    def assert_equal_text(self, selector, textt):
-        return self.assertEqual(self.browser.find_element_by_css_selector(selector).text, textt)
+    def assert_equal_text_using_css(self, selector, expected_text):
+        return self.assertEqual(self.browser.find_element_by_css_selector(selector).text, expected_text)
 
-    def assert_equal_text_using_xpath(self, selector, textt):
-        return self.assertEqual(self.browser.find_element_by_xpath(selector).text, textt)
-
+    def assert_equal_text_using_xpath(self, selector, expected_text):
+        return self.assertEqual(self.browser.find_element_by_xpath(selector).text, expected_text)
 
     def login(self,username,password):
         self.get('/login')
@@ -82,7 +78,3 @@ class WebdriverTestCase(unittest.TestCase):
         pasword.clear()
         pasword.send_keys(password)
         self.find_element(login_selectors.login_submit).click()
-
-
-
-
