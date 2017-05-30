@@ -1,0 +1,6 @@
+text_of_scratcher_page_title  = "Claim your Scratcher Points"
+text_of_scratcher_page_desc = "To claim your Scratcher Points, simply enter your Scratcher Code below."
+text_for_invalid_scratcher_code = "It looks like this scratcher code is not valid. Please check it and try again."
+text_for_empty_scratcher_field = "Please enter a scratcher code"
+text_for_inactive_scratcher_code ="It looks like this scratcher code is not valid. Please check it and try again."
+text_for_already_used_scratcher_byotheruser = "Sorry, this code has already been used."
